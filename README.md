@@ -4,7 +4,7 @@ A Machine Learning-powered API that predicts loan approval risk using financial 
 
 ## 🚀 Live API
 
-👉 https://your-space-name.hf.space
+👉 https://sidnad-credit-risk-system-api.hf.space/docs#/default/predict_predict_post
 
 ## 📌 Features
 
